@@ -1,9 +1,3 @@
-## ZRK Version 1.1 ##
-
-# Updates
-
-- ** Update Vesrion 1.1:** Added frame sync and double buffer for performance improvements.
-
 
 # Status
 
@@ -33,5 +27,3 @@
 		Then, select custom in the application, and it will use your custom sound.
 
 # This hack is written in Python.
-
-# Made by Zarky
